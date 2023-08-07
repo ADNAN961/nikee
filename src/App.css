@@ -12,6 +12,8 @@
 body {
   font-family: "Poppins", sans-serif;
   background-image: url(https://img.freepik.com/free-photo/abstract-marble-texture-black-white-grey-background-handmade-technique_1258-102949.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
  
   
 }
